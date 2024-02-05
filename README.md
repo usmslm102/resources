@@ -1,6 +1,8 @@
 # Resources / Popular tools / GitHub Repository
 > These are my personally collected learning resources and tools that I find helpful for software engineers and product designers. Feel free to send a pull request (PR) if you’d like to add something useful to the list.
 
+[![Hits](https://hits.sh/github.com/usmslm102/resources.svg)](https://hits.sh/github.com/usmslm102/resources/)
+
 ## 🧰 Tools
 1. https://app.wireflow.co/
 2. https://carbon.now.sh/
