@@ -42,6 +42,7 @@
 4. https://hiring.careerbuilder.com/ (US)
 5. https://www.glassdoor.com/
 6. https://www.greenhouse.com/
+7. ⭐ https://github.com/poteto/hiring-without-whiteboards
     ## Remote
    1. ⭐ https://remoteok.com/
    1. https://novoresume.com/career-blog/find-remote-job
