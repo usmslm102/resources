@@ -68,6 +68,7 @@
 
 ## online courses 
 1. https://www.mindluster.com/
+1. https://github.com/charlax/professional-programming
 
 ## Hosting  Deployments
 1. Static and backend hosting
