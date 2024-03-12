@@ -20,6 +20,11 @@
 14. https://freecodetools.org/
 15. https://excalidraw.com/
 
+    ## File Sharing
+    1. https://github.com/localsend/localsend
+    2. https://www.sharedrop.io/
+    3. https://toffeeshare.com/
+
 ## Github profile maker
 1. https://www.profileme.dev/
 
