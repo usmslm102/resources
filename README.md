@@ -187,6 +187,7 @@
     10. https://gradient-designer.csspost.com/
     11. https://tailwindcomponents.com/cheatsheet/
     12. https://merakiui.com/
+    13. ⭐ https://daisyui.com/
 
 ## 🏜 Illustration:
 1. https://undraw.co/illustrations [Open-Source]
