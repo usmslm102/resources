@@ -82,7 +82,7 @@ https://youtube.com/watch?v=2q6GCUzJ6fc&si=dPyyY-G1zOrkvo_x #shadcn
 https://gist.github.com/dotMorten/7db5cc3ae4ab72db784df0793b45d6ac #dotnet 
 
 
-https://github.com/anthropics/courses #AI 
+https://github.com/anthropics/courses #AI #courses
 
 
 https://youtube.com/watch?v=geujDzL0yXQ&si=jVh69qQf2ejCfPJH #shadcn 
