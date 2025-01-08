@@ -91,7 +91,7 @@ https://github.com/MightyMoud/sidekick #infra/deployment #docker
 
 https://animejs.com/ #js 
 
-https://youtube.com/shorts/PLJXjG7Azdg?si=4NuP1CMnSBvuYEGV enterpreuno
+https://youtube.com/shorts/PLJXjG7Azdg?si=4NuP1CMnSBvuYEGV #entrepreneur
 https://saasprices.net/ #saas 
 
 https://backstage.io/ #k8s 
@@ -104,3 +104,5 @@ https://open.substack.com/pub/addyo/p/future-proofing-your-software-engineering?
 https://www.kaggle.com/whitepaper-agents #read 
 
 https://21st.dev/ #UI #design #shadcn 
+
+https://lucide.dev/icons/panel-right #react #UI 
