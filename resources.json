@@ -1,0 +1,524 @@
+[
+  {
+    "url": "https://andrewlock.net/an-introduction-to-the-heap-data-structure-and-dotnets-priority-queue/",
+    "categories": [
+      "dotnet"
+    ]
+  },
+  {
+    "url": "https://medium.com/@josephsims1/aspire-aspi8-deploy-microservices-effortlessly-with-cli-no-docker-or-yaml-needed-f30b58443107",
+    "categories": [
+      "docker"
+    ]
+  },
+  {
+    "url": "https://openalternative.co/",
+    "categories": [
+      "resources",
+      "tools"
+    ]
+  },
+  {
+    "url": "https://x.com/heyshrutimishra/status/1836982881115369554",
+    "categories": [
+      "AI",
+      "Microsoft",
+      "LLM"
+    ]
+  },
+  {
+    "url": "https://github.com/systemdesign42/system-design",
+    "categories": [
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://github.com/armankhondker/best-leetcode-resources",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://github.com/mololab/portry",
+    "categories": [
+      "github"
+    ]
+  },
+  {
+    "url": "https://herbsutter.com/2024/03/11/safety-in-context/",
+    "categories": [
+      "reading"
+    ]
+  },
+  {
+    "url": "https://capacities.io/",
+    "categories": [
+      "klm"
+    ]
+  },
+  {
+    "url": "https://juliocasal.com/blog/Going-Cloud-Native-With-Dotnet-Aspire",
+    "categories": [
+      "dotnet/aspire"
+    ]
+  },
+  {
+    "url": "https://dannorth.net/the-worst-programmer/",
+    "categories": [
+      "programming"
+    ]
+  },
+  {
+    "url": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://x.com/gregorojstersek/status/1767954841689563432?s=12",
+    "categories": [
+      "Twitter",
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://www.tldraw.com/",
+    "categories": [
+      "tools/drawing"
+    ]
+  },
+  {
+    "url": "https://excalidraw.com/",
+    "categories": [
+      "tools/drawing"
+    ]
+  },
+  {
+    "url": "https://shayy.org/posts/cache-control/",
+    "categories": [
+      "read",
+      "engineering",
+      "programming"
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-4",
+    "categories": [
+      "read",
+      "dotnet"
+    ]
+  },
+  {
+    "url": "https://github.com/shashankrustagi/DynamicProgramming",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://pdos.csail.mit.edu/6.824/schedule.html",
+    "categories": [
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=fAAZixBzIAI&si=_UftwK1lrfkh9GmA",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=tWVWeAqZ0WU&si=oamHxM564iDMv5oD",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://microsoft.github.io/rust-for-dotnet-devs/latest/",
+    "categories": [
+      "dotnet",
+      "rust",
+      "programming"
+    ]
+  },
+  {
+    "url": "https://microsoft.github.io/garnet/",
+    "categories": [
+      "dotnet",
+      "programming",
+      "cache"
+    ]
+  },
+  {
+    "url": "https://docs.microsoft.com/",
+    "categories": [
+      "k8s"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=f8JEMRqX1RE&si=0I5Un_mgCfbFz3aK",
+    "categories": [
+      "logseq",
+      "videos"
+    ]
+  },
+  {
+    "url": "https://timdeschryver.dev/bits/creating-a-good-looking-windows-terminal",
+    "categories": [
+      "resources",
+      "powershell"
+    ]
+  },
+  {
+    "url": "https://www.techworld-with-nana.com/post/kubernetes-roadmap",
+    "categories": [
+      "k8s"
+    ]
+  },
+  {
+    "url": "https://www.techworld-with-nana.com/kubernetes-roadmap",
+    "categories": [
+      "k8s"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/OrionReed/4c3778ebc2b5026d2354359ca49077ca",
+    "categories": [
+      "github",
+      "js",
+      "web"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=kp3fCihUXEg&si=Snd9hCQnuybQtSsm",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://www.techinterviewhandbook.org/grind75?weeks=6&hours=20",
+    "categories": [
+      "ds"
+    ]
+  },
+  {
+    "url": "https://www.techinterviewhandbook.org/",
+    "categories": [
+      "books",
+      "LC",
+      "interview",
+      "ds"
+    ]
+  },
+  {
+    "url": "https://seanprashad.com/leetcode-patterns/",
+    "categories": [
+      "books",
+      "LC",
+      "interview"
+    ]
+  },
+  {
+    "url": "https://platformalgorithmsdatastructures.kingofinterviews.com/docs/intro",
+    "categories": [
+      "books",
+      "LC",
+      "interview"
+    ]
+  },
+  {
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "categories": [
+      "resources",
+      "github"
+    ]
+  },
+  {
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "categories": [
+      "resources",
+      "github"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/ryanlpeterman_9-company-engineering-blog-posts-that-will-activity-7182391617910194176-oU1p?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "categories": [
+      "resources",
+      "github"
+    ]
+  },
+  {
+    "url": "https://visualgo.net/en",
+    "categories": [
+      "ds",
+      "resources"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/hasantoxr_jobpreparation-remotejobs-websites-activity-7184846743082090497-bl4d?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "career",
+      "resume"
+    ]
+  },
+  {
+    "url": "https://takeuforward.org/",
+    "categories": [
+      "ds",
+      "resources"
+    ]
+  },
+  {
+    "url": "https://anthonysimmon.com/dotnet-aspire-dashboard-best-tool-visualize-opentelemetry-local-dev/",
+    "categories": [
+      "dotnet"
+    ]
+  },
+  {
+    "url": "https://github.com/ashishps1/awesome-leetcode-resources",
+    "categories": [
+      "github",
+      "interview"
+    ]
+  },
+  {
+    "url": "https://youtube.com/shorts/4yt4YiLXe1g?si=0Kpwq2NtqUyJT7mR",
+    "categories": [
+      "career"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/karan-saxena-466b07190_dsa-was-extremely-hard-for-me-initially-until-activity-7191435432096616448-jK_q?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "ds",
+      "template"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=utDu3Q7Flrw&si=EJrXWSXApML3SR1k",
+    "categories": [
+      "Graphs"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=09_LlHjoEiY&si=8MUOC-aZ6e2GtfLm",
+    "categories": [
+      "Graphs"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/anchal-sharma-57a08714a_leetcode-is-tough-not-with-these-below-activity-7192136477579923456-GaJ0?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "LC",
+      "ds",
+      "interview"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=OTNe0eV8418&si=B2P_cWwivzuYQJ97",
+    "categories": [
+      "LC",
+      "interview",
+      "Youtube"
+    ]
+  },
+  {
+    "url": "https://youtube.com/playlist?list=PL60uk12YwbCYekcB_pvsT3EVdS-tJcQju&si=HOAP3cAagn9cJkWI",
+    "categories": [
+      "ds",
+      "LC",
+      "interview",
+      "Youtube"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/rajatgajbhiye_leetcode-was-hard-learning-these-patterns-activity-7201438862479384576-d-wc?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "LC",
+      "patterns"
+    ]
+  },
+  {
+    "url": "https://leetcode.com/discuss/interview-question/object-oriented-design/4440061/Top-16-OOPs-interview-questions-with-answers",
+    "categories": [
+      "OOP",
+      "interview",
+      "LC"
+    ]
+  },
+  {
+    "url": "https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms",
+    "categories": [
+      "interview",
+      "ds"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/ayush-nagal_hld-ugcPost-7234811053698641920-8e6P?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://x.com/david_perell/status/1838425252772077636",
+    "categories": [
+      "Twitter",
+      "Notes"
+    ]
+  },
+  {
+    "url": "https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html",
+    "categories": [
+      "aws/s3",
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/gkcs_databases-blogs-activity-7245321047275651072-DkXc?utm_source=share&utm_medium=member_ios",
+    "categories": [
+      "database",
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://x.com/nikiforovall/status/1840804550321520932",
+    "categories": [
+      "dotnet/aspire"
+    ]
+  },
+  {
+    "url": "https://x.com/Franc0Fernand0/status/1841405010573246943",
+    "categories": [
+      "interview/tips",
+      "ds"
+    ]
+  },
+  {
+    "url": "https://youtube.com/playlist?list=PLdo4fOcmZ0oWMbEO7CiaDZh6cqSTU_lzJ&si=1dHhmvLVfw1-RkOQ",
+    "categories": [
+      "dotnet/aspire"
+    ]
+  },
+  {
+    "url": "https://islam.stackexchange.com/questions/81435/wife-s-mother-want-to-live-with-me-and-fianc%c3%a9-after-marriage",
+    "categories": [
+      "personal"
+    ]
+  },
+  {
+    "url": "https://islamqa.info/en/answers/7653/ruling-on-living-with-in-laws-in-islam",
+    "categories": [
+      "personal"
+    ]
+  },
+  {
+    "url": "https://aboutislam.net/counseling/ask-the-counselor/marital-obstacles/taking-care-mom-marriage/",
+    "categories": [
+      "personal"
+    ]
+  },
+  {
+    "url": "https://nikiforovall.github.io/dotnet/aspire/2024/09/30/aspire-lessons-learned.html",
+    "categories": [
+      "dotnet/aspire"
+    ]
+  },
+  {
+    "url": "https://somee.com/",
+    "categories": [
+      "hosting",
+      "dotnet"
+    ]
+  },
+  {
+    "url": "https://diskanalyzer.com/",
+    "categories": [
+      "tools",
+      "apps"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=2q6GCUzJ6fc&si=dPyyY-G1zOrkvo_x",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://gist.github.com/dotMorten/7db5cc3ae4ab72db784df0793b45d6ac",
+    "categories": [
+      "dotnet"
+    ]
+  },
+  {
+    "url": "https://github.com/anthropics/courses",
+    "categories": [
+      "AI"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=geujDzL0yXQ&si=jVh69qQf2ejCfPJH",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://github.com/MightyMoud/sidekick",
+    "categories": [
+      "infra/deployment",
+      "docker"
+    ]
+  },
+  {
+    "url": "https://animejs.com/",
+    "categories": [
+      "js"
+    ]
+  },
+  {
+    "url": "https://youtube.com/shorts/PLJXjG7Azdg?si=4NuP1CMnSBvuYEGV",
+    "categories": []
+  },
+  {
+    "url": "https://saasprices.net/",
+    "categories": [
+      "saas"
+    ]
+  },
+  {
+    "url": "https://backstage.io/",
+    "categories": [
+      "k8s"
+    ]
+  },
+  {
+    "url": "https://www.distributedsystemscourse.com/",
+    "categories": [
+      "distributedsystems"
+    ]
+  },
+  {
+    "url": "https://open.substack.com/pub/addyo/p/future-proofing-your-software-engineering?utm_campaign=post&utm_medium=web",
+    "categories": [
+      "read"
+    ]
+  },
+  {
+    "url": "https://www.kaggle.com/whitepaper-agents",
+    "categories": [
+      "read"
+    ]
+  },
+  {
+    "url": "https://21st.dev/",
+    "categories": [
+      "UI",
+      "design",
+      "shadcn"
+    ]
+  }
+]

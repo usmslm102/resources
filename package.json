@@ -1,0 +1,13 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "> These are my personally collected learning resources and tools that I find helpful for software engineers and product designers. Feel free to send a pull request (PR) if you’d like to add something useful to the list.",
+  "main": "parseResource.js",
+  "scripts": {
+    "start": "node parseResource.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
