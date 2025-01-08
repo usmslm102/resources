@@ -28,6 +28,7 @@ jobs:
         cd res-ui
         npm install
         npm run build
+        echo 'tools.usamaansari.com' > ./dist/CNAME
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
