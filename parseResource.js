@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const inputFile = path.join(__dirname, 'resources.md');
-const outputFile = path.join(__dirname, 'resources.json');
+const outputFile = path.join(__dirname, '/res-ui/src/assets/resources.json');
 
 const lines = fs.readFileSync(inputFile, 'utf-8').split('\n').filter(line => line.trim() !== '');
 
