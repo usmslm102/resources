@@ -101,7 +101,7 @@ https://www.distributedsystemscourse.com/ #distributedsystems
 
 https://open.substack.com/pub/addyo/p/future-proofing-your-software-engineering?utm_campaign=post&utm_medium=web #read 
 
-https://www.kaggle.com/whitepaper-agents #read 
+https://www.kaggle.com/whitepaper-agents #read #paper
 
 https://21st.dev/ #UI #design #shadcn 
 
