@@ -116,8 +116,6 @@ https://www.termsfeed.com/ #tools
 
 https://namae.dev/ #tools
 
-https://carbon.now.sh/ #tools
-
 https://ihateregex.io/ #tools
 
 https://app-mockup.com/ #tools
@@ -133,8 +131,6 @@ https://untools.co/ #tools
 https://omatsuri.app/ #tools
 
 https://freecodetools.org/ #tools
-
-https://excalidraw.com/ #tools
 
 https://github.com/localsend/localsend #file-sharing
 
