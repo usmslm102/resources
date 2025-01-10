@@ -499,3 +499,8 @@ https://github.com/EbookFoundation/free-programming-books #books
 https://apps.ankiweb.net/ #flash-card-tools
 
 https://quizlet.com/ #flash-card-tools
+https://www.crewai.com/ #AI #Agent
+
+
+https://youtube.com/watch?v=WfDwFvl5XBo&si=KtKdzHzi9OTmL6-w #kubernetes #Youtube 
+
