@@ -504,3 +504,4 @@ https://www.crewai.com/ #AI #Agent
 
 https://youtube.com/watch?v=WfDwFvl5XBo&si=KtKdzHzi9OTmL6-w #kubernetes #Youtube 
 
+https://svgl.app/ #logo #design-tools 
