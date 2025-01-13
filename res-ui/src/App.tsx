@@ -4,6 +4,7 @@ import resources from './assets/resources.json' // Import the JSON data
 import { Checkbox } from './components/ui/checkbox'
 import { Label } from './components/ui/label'
 import { PanelRight } from 'lucide-react'
+import { Input } from './components/ui/input' // Import the Input component
 
 interface Resource {
   url: string;
@@ -13,6 +14,7 @@ interface Resource {
 function App() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([])
   const [isSidebarOpen, setIsSidebarOpen] = useState(false) // State for sidebar toggle
+  const [searchQuery, setSearchQuery] = useState('') // State for search query
 
   useEffect(() => {
     if (isSidebarOpen) {
@@ -42,11 +44,10 @@ function App() {
     }
   }
 
-  const filteredResources: Resource[] = selectedCategories.length > 0
-    ? resources.filter(resource =>
-        resource.categories.some(category => selectedCategories.includes(category))
-      )
-    : resources
+  const filteredResources: Resource[] = resources.filter(resource =>
+    (selectedCategories.length === 0 || resource.categories.some(category => selectedCategories.includes(category))) &&
+    (resource.url.toLowerCase().includes(searchQuery.toLowerCase()) || resource.categories.some(category => category.toLowerCase().includes(searchQuery.toLowerCase())))
+  )
 
   return (
     <>
@@ -98,6 +99,14 @@ function App() {
 
         <main className="md:w-5/6 w-full p-4">
           <h1 className="text-2xl font-bold mb-4">Resources</h1>
+          <div className="mb-4">
+            <Input
+              type="text"
+              placeholder="Search resources..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </div>
           <div className="resources grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {filteredResources.map(resource => (
               <div key={resource.url} className="block p-4 border rounded hover:bg-gray-50">
