@@ -74,6 +74,14 @@ function App() {
             isSidebarOpen ? 'translate-x-0' : '-translate-x-full'
           } md:static md:w-1/6 md:translate-x-0`}
         >
+          <div className="mb-4">
+            <Input
+              type="text"
+              placeholder="Search categories..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </div>
           <h2 className="text-xl font-semibold mb-4">Categories</h2>
           <div className="checkbox-group space-y-2">
             <Label className="flex items-center cursor-pointer">
@@ -99,14 +107,6 @@ function App() {
 
         <main className="md:w-5/6 w-full p-4">
           <h1 className="text-2xl font-bold mb-4">Resources</h1>
-          <div className="mb-4">
-            <Input
-              type="text"
-              placeholder="Search resources..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-            />
-          </div>
           <div className="resources grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {filteredResources.map(resource => (
               <div key={resource.url} className="block p-4 border rounded hover:bg-gray-50">
