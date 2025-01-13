@@ -14,7 +14,8 @@ interface Resource {
 function App() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([])
   const [isSidebarOpen, setIsSidebarOpen] = useState(false) // State for sidebar toggle
-  const [searchQuery, setSearchQuery] = useState('') // State for search query
+  const [resourceSearchQuery, setResourceSearchQuery] = useState('') // State for resource search query
+  const [categorySearchQuery, setCategorySearchQuery] = useState('') // State for category search query
 
   useEffect(() => {
     if (isSidebarOpen) {
@@ -46,7 +47,8 @@ function App() {
 
   const filteredResources: Resource[] = resources.filter(resource =>
     (selectedCategories.length === 0 || resource.categories.some(category => selectedCategories.includes(category))) &&
-    (resource.url.toLowerCase().includes(searchQuery.toLowerCase()) || resource.categories.some(category => category.toLowerCase().includes(searchQuery.toLowerCase())))
+    (resource.url.toLowerCase().includes(resourceSearchQuery.toLowerCase()) || resource.categories.some(category => category.toLowerCase().includes(resourceSearchQuery.toLowerCase()))) &&
+    (categorySearchQuery === '' || resource.categories.some(category => category.toLowerCase().includes(categorySearchQuery.toLowerCase())))
   )
 
   return (
@@ -78,8 +80,8 @@ function App() {
             <Input
               type="text"
               placeholder="Search categories..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
+              value={categorySearchQuery}
+              onChange={(e) => setCategorySearchQuery(e.target.value)}
             />
           </div>
           <h2 className="text-xl font-semibold mb-4">Categories</h2>
@@ -106,6 +108,14 @@ function App() {
         </aside>
 
         <main className="md:w-5/6 w-full p-4">
+          <div className="mb-4">
+            <Input
+              type="text"
+              placeholder="Search resources..."
+              value={resourceSearchQuery}
+              onChange={(e) => setResourceSearchQuery(e.target.value)}
+            />
+          </div>
           <h1 className="text-2xl font-bold mb-4">Resources</h1>
           <div className="resources grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {filteredResources.map(resource => (
