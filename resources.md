@@ -276,3 +276,8 @@
 276. https://www.crewai.com/ #AI #Agent
 277. https://youtube.com/watch?v=WfDwFvl5XBo&si=KtKdzHzi9OTmL6-w #kubernetes #Youtube 
 278. https://svgl.app/ #logo #design-tools 
+https://www.continue.dev/ #AI #ide
+
+
+https://youtube.com/watch?v=xHy2WwznpTM&si=eTA6KMO2AnSPgtLE #raycast
+
