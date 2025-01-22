@@ -281,3 +281,18 @@ https://www.continue.dev/ #AI #ide
 
 https://youtube.com/watch?v=xHy2WwznpTM&si=eTA6KMO2AnSPgtLE #raycast #Youtube 
 
+
+https://getjustd.com/ #react #UI #design 
+
+
+https://www.agentrecipes.com/ #ai #agent
+
+
+https://www.reweb.so/pricing #UI #design 
+
+https://www.remotion.dev/convert #videos 
+
+https://awesome-shadcn-ui.vercel.app/ #shadcn 
+
+https://cssgridgenerator.io/ #css
+https://chatwise.app/ #LLM 
