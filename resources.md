@@ -296,3 +296,8 @@ https://awesome-shadcn-ui.vercel.app/ #shadcn
 
 https://cssgridgenerator.io/ #css
 https://chatwise.app/ #LLM 
+
+https://tremor.so/docs/visualizations/ #react #UUI
+
+
+https://daisyui.com/ #tailwind-css 
