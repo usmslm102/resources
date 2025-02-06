@@ -301,3 +301,9 @@ https://tremor.so/docs/visualizations/ #react #UUI
 
 
 https://daisyui.com/ #tailwind-css 
+
+https://github.com/systemdesign42/system-design #systemdesign 
+
+https://www.instantdb.com/ #BaaS
+ 
+https://grep.app/ #code 
