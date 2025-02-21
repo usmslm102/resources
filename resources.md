@@ -310,3 +310,8 @@ https://grep.app/ #code
 
 https://www.better-auth.com/ #NextJS 
 #Auth
+
+https://reactbits.dev/ #react #animation
+https://www.shadcn-form.com/playground #shadcn 
+https://motion-primitives.com/docs/carousel #shadcn 
+https://shadcnui-expansions.typeart.cc/ #shadcn 
