@@ -297,9 +297,7 @@ https://awesome-shadcn-ui.vercel.app/ #shadcn
 https://cssgridgenerator.io/ #css
 https://chatwise.app/ #LLM 
 
-https://tremor.so/docs/visualizations/ #react #UUI
-
-https://github.com/systemdesign42/system-design #systemdesign 
+https://tremor.so/docs/visualizations/ #react #UI 
 
 https://www.instantdb.com/ #BaaS
  
