@@ -16,5 +16,10 @@ const resources = lines.map(line => {
   return null;
 }).filter(item => item !== null);
 
-fs.writeFileSync(outputFile, JSON.stringify(resources, null, 2));
+// Remove duplicates based on URL
+const uniqueResources = Array.from(
+  new Map(resources.map(item => [item.url, item])).values()
+);
+
+fs.writeFileSync(outputFile, JSON.stringify(uniqueResources, null, 2));
 console.log('resources.json has been created successfully.');

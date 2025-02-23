@@ -23,7 +23,8 @@
     "categories": [
       "AI",
       "Microsoft",
-      "LLM"
+      "LLM",
+      "Twitter"
     ]
   },
   {
@@ -457,7 +458,8 @@
   {
     "url": "https://github.com/anthropics/courses",
     "categories": [
-      "AI"
+      "AI",
+      "courses"
     ]
   },
   {
@@ -481,7 +483,9 @@
   },
   {
     "url": "https://youtube.com/shorts/PLJXjG7Azdg?si=4NuP1CMnSBvuYEGV",
-    "categories": []
+    "categories": [
+      "entrepreneur"
+    ]
   },
   {
     "url": "https://saasprices.net/",
@@ -510,7 +514,8 @@
   {
     "url": "https://www.kaggle.com/whitepaper-agents",
     "categories": [
-      "read"
+      "read",
+      "paper"
     ]
   },
   {
@@ -518,6 +523,1314 @@
     "categories": [
       "UI",
       "design",
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://lucide.dev/icons/panel-right",
+    "categories": [
+      "react",
+      "UI"
+    ]
+  },
+  {
+    "url": "https://app.wireflow.co/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://carbon.now.sh/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://deviceshots.com/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://www.termsfeed.com/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://namae.dev/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://ihateregex.io/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://app-mockup.com/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://www.ucraft.com/free-logo-maker",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://getterms.io/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://clockify.me/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://untools.co/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://omatsuri.app/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://freecodetools.org/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://github.com/localsend/localsend",
+    "categories": [
+      "file"
+    ]
+  },
+  {
+    "url": "https://www.sharedrop.io/",
+    "categories": [
+      "file"
+    ]
+  },
+  {
+    "url": "https://toffeeshare.com/",
+    "categories": [
+      "file"
+    ]
+  },
+  {
+    "url": "https://www.profileme.dev/",
+    "categories": [
+      "github"
+    ]
+  },
+  {
+    "url": "https://rxresu.me/",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://jsonresume.org/",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://github.com/deedy/Deedy-Resume",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://skillroads.com/free-online-resume-builder",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://www.vmock.com/",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://www.jobscan.co/",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://resumeworded.com/",
+    "categories": [
+      "resume"
+    ]
+  },
+  {
+    "url": "https://www.naukri.com/",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://in.indeed.com/",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://www.foundit.in/",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://hiring.careerbuilder.com/",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://www.glassdoor.com/",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://www.greenhouse.com/",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "categories": [
+      "job"
+    ]
+  },
+  {
+    "url": "https://remoteok.com/",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "https://novoresume.com/career-blog/find-remote-job",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "https://weworkremotely.com/",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "https://justremote.co/",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "http://remote.co",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "http://himalayas.app",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "https://remotive.com",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "http://workingnomads.com/jobs",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "http://angel.co",
+    "categories": [
+      "remote"
+    ]
+  },
+  {
+    "url": "https://whimsical.com/",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://figma.com",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://framer.com",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://maze.co/",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://devdocs.io/",
+    "categories": [
+      "docs"
+    ]
+  },
+  {
+    "url": "https://devhints.io/",
+    "categories": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "url": "https://www.mindluster.com/",
+    "categories": [
+      "online"
+    ]
+  },
+  {
+    "url": "https://github.com/charlax/professional-programming",
+    "categories": [
+      "online"
+    ]
+  },
+  {
+    "url": "https://vercel.com/",
+    "categories": [
+      "static"
+    ]
+  },
+  {
+    "url": "https://www.netlify.com/",
+    "categories": [
+      "static"
+    ]
+  },
+  {
+    "url": "https://pages.github.com/",
+    "categories": [
+      "static"
+    ]
+  },
+  {
+    "url": "https://firebase.google.com/",
+    "categories": [
+      "static"
+    ]
+  },
+  {
+    "url": "https://render.com/",
+    "categories": [
+      "static"
+    ]
+  },
+  {
+    "url": "https://azure.microsoft.com/en-us/free/",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://aws.amazon.com/free",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://cloud.google.com/free",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://www.ibm.com/in-en/cloud/free",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://try.digitalocean.com/freetrialoffer",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://www.qovery.com/",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://vercel.com",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://www.heroku.com/",
+    "categories": [
+      "backend"
+    ]
+  },
+  {
+    "url": "https://replit.com/",
+    "categories": [
+      "web"
+    ]
+  },
+  {
+    "url": "https://gitpod.io/",
+    "categories": [
+      "web"
+    ]
+  },
+  {
+    "url": "https://stackblitz.com/",
+    "categories": [
+      "web"
+    ]
+  },
+  {
+    "url": "https://codesandbox.io/",
+    "categories": [
+      "web"
+    ]
+  },
+  {
+    "url": "https://exercism.org/",
+    "categories": [
+      "web"
+    ]
+  },
+  {
+    "url": "https://auth0.com/blog/amp/secret-management-in-dotnet-applications/",
+    "categories": [
+      "csharp"
+    ]
+  },
+  {
+    "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.dofactory.com/net/design-patterns",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://stackify.com/solid-design-principles/",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/SOLID",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.educative.io/blog/solid-principles-oop-c-sharp",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+    "categories": [
+      "interview"
+    ]
+  },
+  {
+    "url": "https://k8s.af/",
+    "categories": [
+      "kubernetes"
+    ]
+  },
+  {
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "categories": [
+      "javascript"
+    ]
+  },
+  {
+    "url": "https://www.30secondsofcode.org/",
+    "categories": [
+      "javascript"
+    ]
+  },
+  {
+    "url": "https://beginnerjavascript.com/",
+    "categories": [
+      "javascript"
+    ]
+  },
+  {
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "categories": [
+      "javascript"
+    ]
+  },
+  {
+    "url": "https://eloquentjavascript.net/",
+    "categories": [
+      "javascript"
+    ]
+  },
+  {
+    "url": "https://edabit.com/challenges",
+    "categories": [
+      "javascript"
+    ]
+  },
+  {
+    "url": "https://masteringnextjs.com/",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://react2025.com/",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://github.com/adam-golab/react-developer-roadmap",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://github.com/enaqx/awesome-react",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://github.com/30-seconds/30-seconds-of-react",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://github.com/jeromedalbert/real-world-react-apps",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://github.com/ericdouglas/react-learning",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://react-tutorial.app/",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://www.vskills.in/practice/reactjs-mock-test",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://reactjsexample.com/",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://www.breatheco.de/interactive-exercise/react-exercises",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "categories": [
+      "react"
+    ]
+  },
+  {
+    "url": "https://htmlrev.com/",
+    "categories": [
+      "html"
+    ]
+  },
+  {
+    "url": "https://emilkowalski.github.io/css-effects-snippets/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://www.minimamente.com/project/magic/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://css-tricks.com/neumorphism-and-css/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://neumorphic.design/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://enjoycss.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://css-tricks.com/snippets/css/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://devdocs.io/css/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://stripesgenerator.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://keyframes.app/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://github.com/awesome-css-group/awesome-css",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://github.com/AllThingsSmitty/css-protips",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://devhints.io/css",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://grid.malven.co/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://flexbox.malven.co/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://csspeeper.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://animate.style/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://animxyz.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://animista.net/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://cssgridgarden.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://accordionslider.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://grid.layoutit.com/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://kitwind.io/products/kometa/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://tailwindtoolbox.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://tailwind.ink/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://tailwindcomponents.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://tailblocks.cc/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "http://tailwindtemplates.io/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://treact.owaiskhan.me/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://play.tailwindcss.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://www.tailwindshades.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://gradient-designer.csspost.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://tailwindcomponents.com/cheatsheet/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://merakiui.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://daisyui.com/",
+    "categories": [
+      "tailwind"
+    ]
+  },
+  {
+    "url": "https://undraw.co/illustrations",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://isometric.online/",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://freeillustrations.xyz/",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://www.drawkit.io/",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://www.flaticon.com/",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://2.flexiple.com/scale/home",
+    "categories": [
+      "illustration"
+    ]
+  },
+  {
+    "url": "https://unsplash.com/",
+    "categories": [
+      "stock"
+    ]
+  },
+  {
+    "url": "https://burst.shopify.com/",
+    "categories": [
+      "stock"
+    ]
+  },
+  {
+    "url": "https://www.pexels.com/",
+    "categories": [
+      "stock"
+    ]
+  },
+  {
+    "url": "https://pixabay.com/",
+    "categories": [
+      "stock"
+    ]
+  },
+  {
+    "url": "https://kaboompics.com/",
+    "categories": [
+      "stock"
+    ]
+  },
+  {
+    "url": "https://tinypng.com/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://www.remove.bg/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://squoosh.app/",
+    "categories": [
+      "tools"
+    ]
+  },
+  {
+    "url": "https://uigradients.com/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://www.colorsandfonts.com/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "http://stylifyme.com/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://coolors.co/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://colorhunt.co/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://cssgradient.io/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://colors.lol/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "http://colormind.io/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://www.designgradients.com/",
+    "categories": [
+      "colors"
+    ]
+  },
+  {
+    "url": "https://webframe.xyz/",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://lintyour.design/",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://uigarage.net/",
+    "categories": [
+      "design"
+    ]
+  },
+  {
+    "url": "https://fontspark.app/",
+    "categories": [
+      "fonts"
+    ]
+  },
+  {
+    "url": "https://www.fontspace.com/",
+    "categories": [
+      "fonts"
+    ]
+  },
+  {
+    "url": "https://fonts.bunny.net/",
+    "categories": [
+      "fonts"
+    ]
+  },
+  {
+    "url": "https://systemuicons.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://feathericons.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://icons.getbootstrap.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://heroicons.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://css.gg/app",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://boxicons.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://evil-icons.io/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://iconsvg.xyz/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/fluentui-system-icons",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://www.figma.com/community/file/836835755999342788",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://ionicons.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://octicons-primer.vercel.app/octicons/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://devicon.dev/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://ant.design/components/icon/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://uifabricicons.azurewebsites.net/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://remixicon.com/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://lucide.dev/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://tabler-icons.io/",
+    "categories": [
+      "icons"
+    ]
+  },
+  {
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "categories": [
+      "system"
+    ]
+  },
+  {
+    "url": "https://leetcode.com",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://www.hackerrank.com/dashboard",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://www.algoexpert.io/",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://www.educative.io/courses/grokking-the-coding-interview",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://www.educative.io/courses/grokking-the-object-oriented-design-interview",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://www.educative.io/courses/visual-introduction-to-algorithms",
+    "categories": [
+      "data"
+    ]
+  },
+  {
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "categories": [
+      "cheatsheet"
+    ]
+  },
+  {
+    "url": "https://twitter.com/VladPasca5/status/1373997893984473090",
+    "categories": [
+      "career"
+    ]
+  },
+  {
+    "url": "https://blog.trello.com/how-to-give-your-manager-feedback",
+    "categories": [
+      "career"
+    ]
+  },
+  {
+    "url": "https://blog.ndepend.com/8-books-to-improve-as-a-net-developer/",
+    "categories": [
+      "books"
+    ]
+  },
+  {
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "categories": [
+      "books"
+    ]
+  },
+  {
+    "url": "https://apps.ankiweb.net/",
+    "categories": [
+      "flash"
+    ]
+  },
+  {
+    "url": "https://quizlet.com/",
+    "categories": [
+      "flash"
+    ]
+  },
+  {
+    "url": "https://www.crewai.com/",
+    "categories": [
+      "AI",
+      "Agent"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=WfDwFvl5XBo&si=KtKdzHzi9OTmL6-w",
+    "categories": [
+      "kubernetes",
+      "Youtube"
+    ]
+  },
+  {
+    "url": "https://svgl.app/",
+    "categories": [
+      "logo",
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.continue.dev/",
+    "categories": [
+      "AI",
+      "ide"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=xHy2WwznpTM&si=eTA6KMO2AnSPgtLE",
+    "categories": [
+      "raycast",
+      "Youtube"
+    ]
+  },
+  {
+    "url": "https://getjustd.com/",
+    "categories": [
+      "react",
+      "UI",
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.agentrecipes.com/",
+    "categories": [
+      "ai",
+      "agent"
+    ]
+  },
+  {
+    "url": "https://www.reweb.so/pricing",
+    "categories": [
+      "UI",
+      "design"
+    ]
+  },
+  {
+    "url": "https://www.remotion.dev/convert",
+    "categories": [
+      "videos"
+    ]
+  },
+  {
+    "url": "https://awesome-shadcn-ui.vercel.app/",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://cssgridgenerator.io/",
+    "categories": [
+      "css"
+    ]
+  },
+  {
+    "url": "https://chatwise.app/",
+    "categories": [
+      "LLM"
+    ]
+  },
+  {
+    "url": "https://tremor.so/docs/visualizations/",
+    "categories": [
+      "react",
+      "UI"
+    ]
+  },
+  {
+    "url": "https://www.instantdb.com/",
+    "categories": [
+      "BaaS"
+    ]
+  },
+  {
+    "url": "https://grep.app/",
+    "categories": [
+      "code"
+    ]
+  },
+  {
+    "url": "https://www.better-auth.com/",
+    "categories": [
+      "NextJS"
+    ]
+  },
+  {
+    "url": "https://reactbits.dev/",
+    "categories": [
+      "react",
+      "animation"
+    ]
+  },
+  {
+    "url": "https://www.shadcn-form.com/playground",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://motion-primitives.com/docs/carousel",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://shadcnui-expansions.typeart.cc/",
+    "categories": [
       "shadcn"
     ]
   }
