@@ -311,3 +311,5 @@ https://www.shadcn-form.com/playground #shadcn
 https://motion-primitives.com/docs/carousel #shadcn 
 https://shadcnui-expansions.typeart.cc/ #shadcn 
 https://shadcnui-expansions.typeart.cc/ #shadcn 
+https://rosencharts.com/ #UI #charts
+
