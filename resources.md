@@ -312,4 +312,4 @@ https://motion-primitives.com/docs/carousel #shadcn
 https://shadcnui-expansions.typeart.cc/ #shadcn 
 https://shadcnui-expansions.typeart.cc/ #shadcn 
 https://rosencharts.com/ #UI #charts
-
+https://nsui.irung.me/ #shadcn #UI 
