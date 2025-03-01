@@ -25,9 +25,17 @@ function App() {
     }
   }, [isSidebarOpen])
 
-  const categories = Array.from(
+  // Get all categories from resources
+  const allCategories = Array.from(
     new Set(resources.flatMap(resource => resource.categories))
   )
+  
+  // Filter categories based on category search query
+  const filteredCategories = categorySearchQuery
+    ? allCategories.filter(category => 
+        category.toLowerCase().includes(categorySearchQuery.toLowerCase())
+      )
+    : allCategories;
 
   const handleCategoryChange = (category: string) => {
     setSelectedCategories(prev =>
@@ -45,10 +53,12 @@ function App() {
     }
   }
 
+  // Filter resources based on selected categories and resource search query
   const filteredResources: Resource[] = resources.filter(resource =>
+    // Filter by selected categories (if any are selected)
     (selectedCategories.length === 0 || resource.categories.some(category => selectedCategories.includes(category))) &&
-    (resource.url.toLowerCase().includes(resourceSearchQuery.toLowerCase()) || resource.categories.some(category => category.toLowerCase().includes(resourceSearchQuery.toLowerCase()))) &&
-    (categorySearchQuery === '' || resource.categories.some(category => category.toLowerCase().includes(categorySearchQuery.toLowerCase())))
+    // Filter by resource search query (looking only at URL)
+    (resourceSearchQuery === '' || resource.url.toLowerCase().includes(resourceSearchQuery.toLowerCase()))
   )
 
   return (
@@ -94,7 +104,7 @@ function App() {
               />
               All
             </Label>
-            {categories.map(category => (
+            {filteredCategories.map(category => (
               <Label key={category} className="flex items-center cursor-pointer">
                 <Checkbox
                   checked={selectedCategories.includes(category)}
