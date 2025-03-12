@@ -313,3 +313,6 @@ https://shadcnui-expansions.typeart.cc/ #shadcn
 https://shadcnui-expansions.typeart.cc/ #shadcn 
 https://rosencharts.com/ #UI #charts
 https://nsui.irung.me/ #shadcn #UI 
+
+https://artificialanalysis.ai/ #LLM 
+https://github.com/headlamp-k8s/headlamp #k8s #kubernetes 
