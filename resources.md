@@ -318,3 +318,4 @@ https://artificialanalysis.ai/ #LLM
 https://github.com/headlamp-k8s/headlamp #k8s #kubernetes 
 https://dokploy.com/#pricing #cloud
 https://coolify.io/ #cloud 
+https://umami.is/ #analytics
