@@ -319,3 +319,8 @@ https://github.com/headlamp-k8s/headlamp #k8s #kubernetes
 https://dokploy.com/#pricing #cloud
 https://coolify.io/ #cloud 
 https://umami.is/ #analytics
+https://tweakcn.com/editor/theme #shadcn 
+
+https://magicui.design/ #shadcn 
+
+https://www.shadcnblocks.com/ #shadcn 
