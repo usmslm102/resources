@@ -84,8 +84,15 @@ function App() {
         <aside
           className={`fixed top-0 left-0 h-full bg-gray-100 p-4 resize-x overflow-x-auto transition-transform transform z-50 ${
             isSidebarOpen ? 'translate-x-0' : '-translate-x-full'
-          } md:static md:w-1/6 md:translate-x-0`}
+          } md:static md:w-1/6 md:translate-x-0 md:sticky md:top-0`}
         >
+          <button
+            className="p-2 m-2 rounded md:hidden"
+            onClick={() => setIsSidebarOpen(false)}
+            aria-label="Close Sidebar"
+          >
+            Close
+          </button>
           <div className="mb-4">
             <Input
               type="text"
@@ -129,7 +136,7 @@ function App() {
           <h1 className="text-2xl font-bold mb-4">Resources</h1>
           <div className="resources grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {filteredResources.map(resource => (
-              <div key={resource.url} className="block p-4 border rounded hover:bg-gray-50">
+              <div key={resource.url} className="block p-4 border rounded hover:bg-gray-50 shadow-md">
                 <a
                   href={resource.url}
                   target="_blank"
@@ -142,7 +149,7 @@ function App() {
                   {resource.categories.map(category => (
                     <span
                       key={category}
-                      className="text-sm text-gray-600 cursor-pointer"
+                      className="text-sm text-gray-600 cursor-pointer bg-gray-200 px-2 py-1 rounded"
                       onClick={() => handleTagClick(category)}
                     >
                       #{category}
