@@ -324,3 +324,9 @@ https://tweakcn.com/editor/theme #shadcn
 https://magicui.design/ #shadcn 
 
 https://www.shadcnblocks.com/ #shadcn 
+
+https://microsoft.github.io/build-your-first-agent-with-azure-ai-agent-service-workshop/ #agent
+https://uptime.kuma.pet/ #monitoring #self-host #homelab
+https://dockge.kuma.pet/ #docker #self-host #homelab R
+
+https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/ #mcp #agent #Azure 
