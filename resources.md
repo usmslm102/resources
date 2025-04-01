@@ -330,3 +330,4 @@ https://uptime.kuma.pet/ #monitoring #self-host #homelab
 https://dockge.kuma.pet/ #docker #self-host #homelab R
 
 https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/ #mcp #agent #Azure 
+https://themecn.dev/ #shadcn 
