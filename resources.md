@@ -301,7 +301,7 @@ https://tremor.so/docs/visualizations/ #react #UI
 
 https://www.instantdb.com/ #BaaS
  
-https://grep.app/ #code 
+https://grep.app/ #code #search
 
 https://www.better-auth.com/ #NextJS 
 #Auth
