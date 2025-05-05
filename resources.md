@@ -58,9 +58,6 @@
 58. https://x.com/nikiforovall/status/1840804550321520932 #dotnet/aspire 
 59. https://x.com/Franc0Fernand0/status/1841405010573246943 #interview/tips #ds-algo 
 60. https://youtube.com/playlist?list=PLdo4fOcmZ0oWMbEO7CiaDZh6cqSTU_lzJ&si=1dHhmvLVfw1-RkOQ #dotnet/aspire 
-61. https://islam.stackexchange.com/questions/81435/wife-s-mother-want-to-live-with-me-and-fianc%c3%a9-after-marriage #personal
-62. https://islamqa.info/en/answers/7653/ruling-on-living-with-in-laws-in-islam #personal 
-63. https://aboutislam.net/counseling/ask-the-counselor/marital-obstacles/taking-care-mom-marriage/ #personal 
 64. https://nikiforovall.github.io/dotnet/aspire/2024/09/30/aspire-lessons-learned.html #dotnet/aspire 
 65. https://somee.com/ #hosting #dotnet 
 66. https://diskanalyzer.com/ #tools #apps
