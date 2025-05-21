@@ -82,7 +82,7 @@ function App() {
         )}
 
         <aside
-          className={`fixed top-0 left-0 h-full bg-gray-100 p-4 resize-x overflow-x-auto transition-transform transform z-50 ${
+          className={`fixed top-0 left-0 h-full bg-gray-100 p-4 resize-x overflow-x-auto overflow-y-auto transition-transform transform z-50 ${
             isSidebarOpen ? 'translate-x-0' : '-translate-x-full'
           } md:static md:w-1/6 md:translate-x-0 md:sticky md:top-0`}
         >
