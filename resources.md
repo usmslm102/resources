@@ -336,3 +336,6 @@ https://www.kaggle.com/whitepaper-prompt-engineering #prompt
 
 https://smudge.ai/blog/ratelimit-algorithms #blog #systemdesign 
 https://huggingface.co/learn/mcp-course/unit0/introduction #mcp 
+https://animate-ui.com/ #shadcn 
+https://github.com/MicrosoftDocs/mcp #mcp 
+https://github.com/microsoft/mcp-for-beginners #mcp 
