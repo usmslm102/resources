@@ -334,3 +334,5 @@ https://cursorful.com/ #video #recording
 https://fumadocs.vercel.app/ #docs 
 https://www.kaggle.com/whitepaper-prompt-engineering #prompt
 
+https://smudge.ai/blog/ratelimit-algorithms #blog #systemdesign 
+https://huggingface.co/learn/mcp-course/unit0/introduction #mcp 
