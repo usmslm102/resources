@@ -336,6 +336,24 @@ https://www.kaggle.com/whitepaper-prompt-engineering #prompt
 
 https://smudge.ai/blog/ratelimit-algorithms #blog #systemdesign 
 https://huggingface.co/learn/mcp-course/unit0/introduction #mcp 
+
+https://github.com/microsoft/ai-agents-for-beginners?utm_source=linkedin #agent #AI 
+https://github.com/steipete/agent-rules #agent 
 https://animate-ui.com/ #shadcn 
-https://github.com/MicrosoftDocs/mcp #mcp 
-https://github.com/microsoft/mcp-for-beginners #mcp 
+
+https://chromewebstore.google.com/detail/preplaced-ai-the-mentor-t/phbhomcaiapjeoghkpegkkccfidalfaa?utm_source=linkedin+&utm_medium=inf+&utm_campaign=page_chrome_extension&utm_term=ai_extension_review&utm_content=soubhik_ghosh #career 
+
+https://models.dev/ #AI 
+https://github.com/microsoft/mcp-for-beginners/blob/main/00-Introduction/README.md #mcp 
+
+https://youtube.com/watch?v=7WsbtZwOx_U&si=zbw9TvU04_lhzTyk #agent 
+https://cobalt.tools/ #download
+https://www.ultracite.ai/faq #lint 
+https://github.com/stan-smith/FossFLOW #diagram #tools 
+https://www.nico.fyi/blog/how-to-take-screenshots-in-github-actions-workflow #github/action #react 
+https://catalins.tech/better-auth-with-hono-bun-typescript-react-vite/ #Auth 
+https://reui.io/ #shadcn 
+
+https://teachyourselfcs.com/ #cs 
+https://www.linkedin.com/posts/arvindtelharkar_if-i-had-one-week-left-before-my-system-design-activity-7363426998905434114-55UH?utm_source=share&utm_medium=member_ios&rcm=ACoAAAV4-MgBArgoUORAHn1rIhm435QOCJ5zrhE #systemdesign 
+https://samwho.dev/ #blog #favblog 
