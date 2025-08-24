@@ -124,7 +124,7 @@ function App() {
           </div>
         </aside>
 
-        <main className="md:w-5/6 w-full p-4">
+        <main className="md:w-5/6 w-full p-4 pt-16 md:pt-4">
           <div className="mb-4">
             <Input
               type="text"
