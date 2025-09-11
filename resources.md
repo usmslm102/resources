@@ -360,3 +360,5 @@ https://samwho.dev/ #blog #favblog
 https://classless-css-previews.vercel.app/ #css #classless
 https://github.com/dbohdan/classless-css #css #classless 
 https://jobs.80000hours.org/ #jobs #remote 
+https://www.uplers.com/ #job 
+https://www.foundit.in/ #job 
