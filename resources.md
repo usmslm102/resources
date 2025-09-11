@@ -100,13 +100,13 @@
 100. https://www.vmock.com/ #resume-scanner-ats
 101. https://www.jobscan.co/ #resume-scanner-ats
 102. https://resumeworded.com/ #resume-scanner-ats
-103. https://www.naukri.com/ #job-seeking-sites
-104. https://in.indeed.com/ #job-seeking-sites
-105. https://www.foundit.in/ #job-seeking-sites
-106. https://hiring.careerbuilder.com/ #job-seeking-sites
-107. https://www.glassdoor.com/ #job-seeking-sites
-108. https://www.greenhouse.com/ #job-seeking-sites
-109. https://github.com/poteto/hiring-without-whiteboards #job-seeking-sites
+103. https://www.naukri.com/ #job
+104. https://in.indeed.com/ #job
+105. https://www.foundit.in/ #job
+106. https://hiring.careerbuilder.com/ #job
+107. https://www.glassdoor.com/ #job
+108. https://www.greenhouse.com/ #job
+109. https://github.com/poteto/hiring-without-whiteboards #job
 110. https://remoteok.com/ #remote
 111. https://novoresume.com/career-blog/find-remote-job #remote
 112. https://weworkremotely.com/ #remote
@@ -359,3 +359,4 @@ https://www.linkedin.com/posts/arvindtelharkar_if-i-had-one-week-left-before-my-
 https://samwho.dev/ #blog #favblog 
 https://classless-css-previews.vercel.app/ #css #classless
 https://github.com/dbohdan/classless-css #css #classless 
+https://jobs.80000hours.org/ #jobs #remote 
