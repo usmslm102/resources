@@ -668,43 +668,43 @@
   {
     "url": "https://www.naukri.com/",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
     "url": "https://in.indeed.com/",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
     "url": "https://www.foundit.in/",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
     "url": "https://hiring.careerbuilder.com/",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
     "url": "https://www.glassdoor.com/",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
     "url": "https://www.greenhouse.com/",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "categories": [
-      "job-seeking-sites"
+      "job"
     ]
   },
   {
@@ -2060,6 +2060,13 @@
     "categories": [
       "css",
       "classless"
+    ]
+  },
+  {
+    "url": "https://jobs.80000hours.org/",
+    "categories": [
+      "jobs",
+      "remote"
     ]
   }
 ]
