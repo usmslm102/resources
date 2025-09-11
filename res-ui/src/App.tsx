@@ -1,11 +1,11 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useDebounce } from './lib/useDebounce'
 import './App.css'
 import resources from './assets/resources.json' // Import the JSON data
 import { Checkbox } from './components/ui/checkbox'
 import { Label } from './components/ui/label'
 import { PanelRight } from 'lucide-react'
 import { Input } from './components/ui/input' // Import the Input component
+import { useDebounce } from './lib/useDebounce'
 
 interface Resource {
   url: string;
