@@ -36,7 +36,7 @@
   {
     "url": "https://github.com/armankhondker/best-leetcode-resources",
     "categories": [
-      "ds"
+      "ds-algo"
     ]
   },
   {
@@ -72,7 +72,7 @@
   {
     "url": "https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/",
     "categories": [
-      "ds"
+      "ds-algo"
     ]
   },
   {
@@ -112,7 +112,7 @@
   {
     "url": "https://github.com/shashankrustagi/DynamicProgramming",
     "categories": [
-      "ds"
+      "ds-algo/dp"
     ]
   },
   {
@@ -124,13 +124,13 @@
   {
     "url": "https://youtube.com/watch?v=fAAZixBzIAI&si=_UftwK1lrfkh9GmA",
     "categories": [
-      "ds"
+      "ds-algo/binarytree"
     ]
   },
   {
     "url": "https://youtube.com/watch?v=tWVWeAqZ0WU&si=oamHxM564iDMv5oD",
     "categories": [
-      "ds"
+      "ds-algo/graphs"
     ]
   },
   {
@@ -192,13 +192,13 @@
   {
     "url": "https://youtube.com/watch?v=kp3fCihUXEg&si=Snd9hCQnuybQtSsm",
     "categories": [
-      "ds"
+      "ds-algo"
     ]
   },
   {
     "url": "https://www.techinterviewhandbook.org/grind75?weeks=6&hours=20",
     "categories": [
-      "ds"
+      "ds-algo/LC"
     ]
   },
   {
@@ -207,7 +207,7 @@
       "books",
       "LC",
       "interview",
-      "ds"
+      "ds-algo/LC"
     ]
   },
   {
@@ -256,7 +256,7 @@
   {
     "url": "https://visualgo.net/en",
     "categories": [
-      "ds",
+      "ds-algo",
       "resources"
     ]
   },
@@ -270,7 +270,7 @@
   {
     "url": "https://takeuforward.org/",
     "categories": [
-      "ds",
+      "ds-algo",
       "resources"
     ]
   },
@@ -296,7 +296,7 @@
   {
     "url": "https://www.linkedin.com/posts/karan-saxena-466b07190_dsa-was-extremely-hard-for-me-initially-until-activity-7191435432096616448-jK_q?utm_source=share&utm_medium=member_ios",
     "categories": [
-      "ds",
+      "ds-algo/LC",
       "template"
     ]
   },
@@ -316,7 +316,7 @@
     "url": "https://www.linkedin.com/posts/anchal-sharma-57a08714a_leetcode-is-tough-not-with-these-below-activity-7192136477579923456-GaJ0?utm_source=share&utm_medium=member_ios",
     "categories": [
       "LC",
-      "ds",
+      "ds-algo/LC",
       "interview"
     ]
   },
@@ -331,7 +331,7 @@
   {
     "url": "https://youtube.com/playlist?list=PL60uk12YwbCYekcB_pvsT3EVdS-tJcQju&si=HOAP3cAagn9cJkWI",
     "categories": [
-      "ds",
+      "ds-algo/dp",
       "LC",
       "interview",
       "Youtube"
@@ -356,7 +356,7 @@
     "url": "https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms",
     "categories": [
       "interview",
-      "ds"
+      "ds-algo"
     ]
   },
   {
@@ -396,7 +396,7 @@
     "url": "https://x.com/Franc0Fernand0/status/1841405010573246943",
     "categories": [
       "interview/tips",
-      "ds"
+      "ds-algo"
     ]
   },
   {
@@ -596,115 +596,115 @@
   {
     "url": "https://github.com/localsend/localsend",
     "categories": [
-      "file"
+      "file-sharing"
     ]
   },
   {
     "url": "https://www.sharedrop.io/",
     "categories": [
-      "file"
+      "file-sharing"
     ]
   },
   {
     "url": "https://toffeeshare.com/",
     "categories": [
-      "file"
+      "file-sharing"
     ]
   },
   {
     "url": "https://www.profileme.dev/",
     "categories": [
-      "github"
+      "github-profile-maker"
     ]
   },
   {
     "url": "https://rxresu.me/",
     "categories": [
-      "resume"
+      "resume-builder"
     ]
   },
   {
     "url": "https://jsonresume.org/",
     "categories": [
-      "resume"
+      "resume-builder"
     ]
   },
   {
     "url": "https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz",
     "categories": [
-      "resume"
+      "resume-builder"
     ]
   },
   {
     "url": "https://github.com/deedy/Deedy-Resume",
     "categories": [
-      "resume"
+      "resume-builder"
     ]
   },
   {
     "url": "https://skillroads.com/free-online-resume-builder",
     "categories": [
-      "resume"
+      "resume-scanner-ats"
     ]
   },
   {
     "url": "https://www.vmock.com/",
     "categories": [
-      "resume"
+      "resume-scanner-ats"
     ]
   },
   {
     "url": "https://www.jobscan.co/",
     "categories": [
-      "resume"
+      "resume-scanner-ats"
     ]
   },
   {
     "url": "https://resumeworded.com/",
     "categories": [
-      "resume"
+      "resume-scanner-ats"
     ]
   },
   {
     "url": "https://www.naukri.com/",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
     "url": "https://in.indeed.com/",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
     "url": "https://www.foundit.in/",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
     "url": "https://hiring.careerbuilder.com/",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
     "url": "https://www.glassdoor.com/",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
     "url": "https://www.greenhouse.com/",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "categories": [
-      "job"
+      "job-seeking-sites"
     ]
   },
   {
@@ -764,25 +764,25 @@
   {
     "url": "https://whimsical.com/",
     "categories": [
-      "design"
+      "design-tools"
     ]
   },
   {
     "url": "https://figma.com",
     "categories": [
-      "design"
+      "design-tools"
     ]
   },
   {
     "url": "https://framer.com",
     "categories": [
-      "design"
+      "design-tools"
     ]
   },
   {
     "url": "https://maze.co/",
     "categories": [
-      "design"
+      "design-tools"
     ]
   },
   {
@@ -800,121 +800,121 @@
   {
     "url": "https://www.mindluster.com/",
     "categories": [
-      "online"
+      "online-courses"
     ]
   },
   {
     "url": "https://github.com/charlax/professional-programming",
     "categories": [
-      "online"
+      "online-courses"
     ]
   },
   {
     "url": "https://vercel.com/",
     "categories": [
-      "static"
+      "static-site-hosting"
     ]
   },
   {
     "url": "https://www.netlify.com/",
     "categories": [
-      "static"
+      "static-site-hosting"
     ]
   },
   {
     "url": "https://pages.github.com/",
     "categories": [
-      "static"
+      "static-site-hosting"
     ]
   },
   {
     "url": "https://firebase.google.com/",
     "categories": [
-      "static"
+      "static-site-hosting"
     ]
   },
   {
     "url": "https://render.com/",
     "categories": [
-      "static"
+      "static-site-hosting"
     ]
   },
   {
     "url": "https://azure.microsoft.com/en-us/free/",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://aws.amazon.com/free",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://cloud.google.com/free",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://www.ibm.com/in-en/cloud/free",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://try.digitalocean.com/freetrialoffer",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://www.qovery.com/",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://vercel.com",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://www.heroku.com/",
     "categories": [
-      "backend"
+      "backend-hosting"
     ]
   },
   {
     "url": "https://replit.com/",
     "categories": [
-      "web"
+      "web-ide"
     ]
   },
   {
     "url": "https://gitpod.io/",
     "categories": [
-      "web"
+      "web-ide"
     ]
   },
   {
     "url": "https://stackblitz.com/",
     "categories": [
-      "web"
+      "web-ide"
     ]
   },
   {
     "url": "https://codesandbox.io/",
     "categories": [
-      "web"
+      "web-ide"
     ]
   },
   {
     "url": "https://exercism.org/",
     "categories": [
-      "web"
+      "web-ide"
     ]
   },
   {
@@ -926,55 +926,55 @@
   {
     "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
     "categories": [
-      "design"
+      "design-patterns"
     ]
   },
   {
     "url": "https://www.dofactory.com/net/design-patterns",
     "categories": [
-      "design"
+      "design-patterns"
     ]
   },
   {
     "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
     "categories": [
-      "design"
+      "design-patterns"
     ]
   },
   {
     "url": "https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x",
     "categories": [
-      "design"
+      "design-patterns"
     ]
   },
   {
     "url": "https://stackify.com/solid-design-principles/",
     "categories": [
-      "design"
+      "design-principle"
     ]
   },
   {
     "url": "https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
     "categories": [
-      "design"
+      "design-principle"
     ]
   },
   {
     "url": "https://en.wikipedia.org/wiki/SOLID",
     "categories": [
-      "design"
+      "design-principle"
     ]
   },
   {
     "url": "https://www.educative.io/blog/solid-principles-oop-c-sharp",
     "categories": [
-      "design"
+      "design-principle"
     ]
   },
   {
     "url": "https://github.com/DopplerHQ/awesome-interview-questions",
     "categories": [
-      "interview"
+      "interview-questions"
     ]
   },
   {
@@ -1022,73 +1022,73 @@
   {
     "url": "https://masteringnextjs.com/",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://react2025.com/",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://github.com/adam-golab/react-developer-roadmap",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://github.com/enaqx/awesome-react",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://github.com/30-seconds/30-seconds-of-react",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://github.com/jeromedalbert/real-world-react-apps",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://github.com/ericdouglas/react-learning",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://react-tutorial.app/",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://www.vskills.in/practice/reactjs-mock-test",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://reactjsexample.com/",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://www.breatheco.de/interactive-exercise/react-exercises",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "categories": [
-      "react"
+      "react-js"
     ]
   },
   {
@@ -1232,79 +1232,79 @@
   {
     "url": "https://kitwind.io/products/kometa/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://tailwindtoolbox.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://tailwind.ink/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://tailwindcomponents.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://tailblocks.cc/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "http://tailwindtemplates.io/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://treact.owaiskhan.me/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://play.tailwindcss.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://www.tailwindshades.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://gradient-designer.csspost.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://tailwindcomponents.com/cheatsheet/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://merakiui.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
     "url": "https://daisyui.com/",
     "categories": [
-      "tailwind"
+      "tailwind-css"
     ]
   },
   {
@@ -1352,49 +1352,49 @@
   {
     "url": "https://unsplash.com/",
     "categories": [
-      "stock"
+      "stock-photos"
     ]
   },
   {
     "url": "https://burst.shopify.com/",
     "categories": [
-      "stock"
+      "stock-photos"
     ]
   },
   {
     "url": "https://www.pexels.com/",
     "categories": [
-      "stock"
+      "stock-photos"
     ]
   },
   {
     "url": "https://pixabay.com/",
     "categories": [
-      "stock"
+      "stock-photos"
     ]
   },
   {
     "url": "https://kaboompics.com/",
     "categories": [
-      "stock"
+      "stock-photos"
     ]
   },
   {
     "url": "https://tinypng.com/",
     "categories": [
-      "tools"
+      "tools-and-compression"
     ]
   },
   {
     "url": "https://www.remove.bg/",
     "categories": [
-      "tools"
+      "tools-and-compression"
     ]
   },
   {
     "url": "https://squoosh.app/",
     "categories": [
-      "tools"
+      "tools-and-compression"
     ]
   },
   {
@@ -1454,19 +1454,19 @@
   {
     "url": "https://webframe.xyz/",
     "categories": [
-      "design"
+      "design-inspiration"
     ]
   },
   {
     "url": "https://lintyour.design/",
     "categories": [
-      "design"
+      "design-inspiration"
     ]
   },
   {
     "url": "https://uigarage.net/",
     "categories": [
-      "design"
+      "design-inspiration"
     ]
   },
   {
@@ -1598,49 +1598,49 @@
   {
     "url": "https://github.com/donnemartin/system-design-primer",
     "categories": [
-      "system"
+      "system-design"
     ]
   },
   {
     "url": "https://leetcode.com",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
     "url": "https://www.hackerrank.com/dashboard",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
     "url": "https://www.algoexpert.io/",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
     "url": "https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
     "url": "https://www.educative.io/courses/grokking-the-coding-interview",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
     "url": "https://www.educative.io/courses/grokking-the-object-oriented-design-interview",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
     "url": "https://www.educative.io/courses/visual-introduction-to-algorithms",
     "categories": [
-      "data"
+      "data-structure-algo"
     ]
   },
   {
@@ -1652,13 +1652,13 @@
   {
     "url": "https://twitter.com/VladPasca5/status/1373997893984473090",
     "categories": [
-      "career"
+      "career-keeping-up"
     ]
   },
   {
     "url": "https://blog.trello.com/how-to-give-your-manager-feedback",
     "categories": [
-      "career"
+      "career-keeping-up"
     ]
   },
   {
@@ -1676,13 +1676,13 @@
   {
     "url": "https://apps.ankiweb.net/",
     "categories": [
-      "flash"
+      "flash-card-tools"
     ]
   },
   {
     "url": "https://quizlet.com/",
     "categories": [
-      "flash"
+      "flash-card-tools"
     ]
   },
   {
@@ -1703,7 +1703,7 @@
     "url": "https://svgl.app/",
     "categories": [
       "logo",
-      "design"
+      "design-tools"
     ]
   },
   {
@@ -1782,7 +1782,8 @@
   {
     "url": "https://grep.app/",
     "categories": [
-      "code"
+      "code",
+      "search"
     ]
   },
   {
@@ -1814,6 +1815,251 @@
     "url": "https://shadcnui-expansions.typeart.cc/",
     "categories": [
       "shadcn"
+    ]
+  },
+  {
+    "url": "https://rosencharts.com/",
+    "categories": [
+      "UI",
+      "charts"
+    ]
+  },
+  {
+    "url": "https://nsui.irung.me/",
+    "categories": [
+      "shadcn",
+      "UI"
+    ]
+  },
+  {
+    "url": "https://artificialanalysis.ai/",
+    "categories": [
+      "LLM"
+    ]
+  },
+  {
+    "url": "https://github.com/headlamp-k8s/headlamp",
+    "categories": [
+      "k8s",
+      "kubernetes"
+    ]
+  },
+  {
+    "url": "https://dokploy.com/#pricing",
+    "categories": [
+      "cloud"
+    ]
+  },
+  {
+    "url": "https://coolify.io/",
+    "categories": [
+      "cloud"
+    ]
+  },
+  {
+    "url": "https://umami.is/",
+    "categories": [
+      "analytics"
+    ]
+  },
+  {
+    "url": "https://tweakcn.com/editor/theme",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://magicui.design/",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://www.shadcnblocks.com/",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://microsoft.github.io/build-your-first-agent-with-azure-ai-agent-service-workshop/",
+    "categories": [
+      "agent"
+    ]
+  },
+  {
+    "url": "https://uptime.kuma.pet/",
+    "categories": [
+      "monitoring",
+      "self-host",
+      "homelab"
+    ]
+  },
+  {
+    "url": "https://dockge.kuma.pet/",
+    "categories": [
+      "docker",
+      "self-host",
+      "homelab"
+    ]
+  },
+  {
+    "url": "https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/",
+    "categories": [
+      "mcp",
+      "agent",
+      "Azure"
+    ]
+  },
+  {
+    "url": "https://themecn.dev/",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://cursorful.com/",
+    "categories": [
+      "video",
+      "recording"
+    ]
+  },
+  {
+    "url": "https://fumadocs.vercel.app/",
+    "categories": [
+      "docs"
+    ]
+  },
+  {
+    "url": "https://www.kaggle.com/whitepaper-prompt-engineering",
+    "categories": [
+      "prompt"
+    ]
+  },
+  {
+    "url": "https://smudge.ai/blog/ratelimit-algorithms",
+    "categories": [
+      "blog",
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/learn/mcp-course/unit0/introduction",
+    "categories": [
+      "mcp"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/ai-agents-for-beginners?utm_source=linkedin",
+    "categories": [
+      "agent",
+      "AI"
+    ]
+  },
+  {
+    "url": "https://github.com/steipete/agent-rules",
+    "categories": [
+      "agent"
+    ]
+  },
+  {
+    "url": "https://animate-ui.com/",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/preplaced-ai-the-mentor-t/phbhomcaiapjeoghkpegkkccfidalfaa?utm_source=linkedin+&utm_medium=inf+&utm_campaign=page_chrome_extension&utm_term=ai_extension_review&utm_content=soubhik_ghosh",
+    "categories": [
+      "career"
+    ]
+  },
+  {
+    "url": "https://models.dev/",
+    "categories": [
+      "AI"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/mcp-for-beginners/blob/main/00-Introduction/README.md",
+    "categories": [
+      "mcp"
+    ]
+  },
+  {
+    "url": "https://youtube.com/watch?v=7WsbtZwOx_U&si=zbw9TvU04_lhzTyk",
+    "categories": [
+      "agent"
+    ]
+  },
+  {
+    "url": "https://cobalt.tools/",
+    "categories": [
+      "download"
+    ]
+  },
+  {
+    "url": "https://www.ultracite.ai/faq",
+    "categories": [
+      "lint"
+    ]
+  },
+  {
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "categories": [
+      "diagram",
+      "tools"
+    ]
+  },
+  {
+    "url": "https://www.nico.fyi/blog/how-to-take-screenshots-in-github-actions-workflow",
+    "categories": [
+      "github/action",
+      "react"
+    ]
+  },
+  {
+    "url": "https://catalins.tech/better-auth-with-hono-bun-typescript-react-vite/",
+    "categories": [
+      "Auth"
+    ]
+  },
+  {
+    "url": "https://reui.io/",
+    "categories": [
+      "shadcn"
+    ]
+  },
+  {
+    "url": "https://teachyourselfcs.com/",
+    "categories": [
+      "cs"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/arvindtelharkar_if-i-had-one-week-left-before-my-system-design-activity-7363426998905434114-55UH?utm_source=share&utm_medium=member_ios&rcm=ACoAAAV4-MgBArgoUORAHn1rIhm435QOCJ5zrhE",
+    "categories": [
+      "systemdesign"
+    ]
+  },
+  {
+    "url": "https://samwho.dev/",
+    "categories": [
+      "blog",
+      "favblog"
+    ]
+  },
+  {
+    "url": "https://classless-css-previews.vercel.app/",
+    "categories": [
+      "css",
+      "classless"
+    ]
+  },
+  {
+    "url": "https://github.com/dbohdan/classless-css",
+    "categories": [
+      "css",
+      "classless"
     ]
   }
 ]

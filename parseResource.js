@@ -10,7 +10,7 @@ const resources = lines.map(line => {
   const match = line.match(/^(?:\d+\.\s*)?(https?:\/\/\S+)\s*(.*)$/);
   if (match) {
     const url = match[1];
-    const categories = (match[2].match(/#\w+(?:\/\w+)*/g) || []).map(tag => tag.substring(1));
+    const categories = (match[2].match(/#[\w-]+(?:\/[\w-]+)*/g) || []).map(tag => tag.substring(1));
     return { url, categories };
   }
   return null;
