@@ -362,3 +362,15 @@ https://github.com/dbohdan/classless-css #css #classless
 https://jobs.80000hours.org/ #jobs #remote 
 https://www.uplers.com/ #job 
 https://www.foundit.in/ #job 
+
+https://chatgpt.com/use-cases/students #job #career 
+https://typescript-is-like-csharp.chrlschn.dev/pages/basics/variables.html #csharp #typescript 
+
+https://engineering.usemotion.com/moving-off-of-typescript-e7bb1f3ad091 #csharp #typescript 
+
+
+https://youtube.com/watch?v=8DPTayE7sus&si=QaFdLkHZqsm2j9Lq #resolve
+
+https://github.com/dend/awesome-product-management #productmanagement
+https://ui.spectrumhq.in/ #shadcn 
+https://reactnativereusables.com/docs #shadcn #reactnative
