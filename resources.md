@@ -259,9 +259,9 @@
 259. https://leetcode.com #data-structure-algo
 260. https://www.hackerrank.com/dashboard #data-structure-algo
 261. https://www.algoexpert.io/ #data-structure-algo
-262. https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews #data-structure-algo
-263. https://www.educative.io/courses/grokking-the-coding-interview #data-structure-algo
-264. https://www.educative.io/courses/grokking-the-object-oriented-design-interview #data-structure-algo
+262. https://www.designgurus.io/course/grokking-dynamic-programming #data-structure-algo
+263. https://www.designgurus.io/course/grokking-the-coding-interview #data-structure-algo
+264. https://www.designgurus.io/course/grokking-the-object-oriented-design-interview #data-structure-algo
 265. https://www.educative.io/courses/visual-introduction-to-algorithms #data-structure-algo
 266. https://github.com/LeCoupa/awesome-cheatsheets #cheatsheet
 267. https://twitter.com/VladPasca5/status/1373997893984473090 #career-keeping-up
