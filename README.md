@@ -259,9 +259,9 @@
 1. https://leetcode.com
 2. https://www.hackerrank.com/dashboard
 3. https://www.algoexpert.io/
-4. https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
-5. https://www.educative.io/courses/grokking-the-coding-interview
-6. https://www.educative.io/courses/grokking-the-object-oriented-design-interview
+4. https://www.designgurus.io/course/grokking-dynamic-programming
+5. https://www.designgurus.io/course/grokking-the-coding-interview
+6. https://www.designgurus.io/course/grokking-the-object-oriented-design-interview
 7. https://www.educative.io/courses/visual-introduction-to-algorithms
 
 ## :bookmark_tabs: Cheatsheet
